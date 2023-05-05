@@ -1,0 +1,8 @@
+Ganache new workspace , add the truffle-config.js (8545  ,generate hd mnemonic)
+truffle migrate --reset
+Start ipfs
+new contract address at app.js line 11
+import accounts into metamask
+Start IPFS daemon
+npm start in app directory
+
